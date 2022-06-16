@@ -1,0 +1,16 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 40px;
+    width: 50%;
+    border-radius: 5px;
+    bottom: 0%;
+    position: fixed;
+
+    color: white;
+
+    background-color: rgb(63, 33, 33);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
